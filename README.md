@@ -12,6 +12,7 @@ This repository is organized as a monorepo with separate backend and frontend wo
 - Auth: JWT + bcrypt
 
 ## Folder Structure
+This is the folder structure
 
 ```text
 .
